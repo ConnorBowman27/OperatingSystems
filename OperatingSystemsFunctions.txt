@@ -1,3 +1,3 @@
 The Windows start button allows you to browsw the computer with ease. Allowing the user to locate anything they wish and navigate to different places on the computer. Everything can be accessed here.
 The control panel function allows the user to customize the layout. This is user friendly and really simple, also easy to locate. Also hardware can be accessed here.
-Another function is the windows store the OS provides. You can buy or download lots of programms here to allow you to interact with the OS. Very easy to find and use.
+ Another function is the windows store the OS provides. You can buy or download lots of programms here to allow you to interact with the OS. Very easy to find and use.
